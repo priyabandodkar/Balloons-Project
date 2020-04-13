@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/00_ProjectFiles/01_Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

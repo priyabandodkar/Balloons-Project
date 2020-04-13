@@ -1,0 +1,27 @@
+newmtl Ch37_EyeleashesSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ch37_1002_Diffuse.png
+bump  -bm 1 Ch37_1002_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Ch37_PantsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ch37_1001_Diffuse.png
+bump  -bm 1 Ch37_1001_Normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Ch37_1001_Specular.png
+Ns 98.00
+newmtl lambert2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
